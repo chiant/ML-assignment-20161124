@@ -1,7 +1,7 @@
 
 Repository
 ===========
-  Current repository created to provide data and description for MSXF ML test assignment.
+  Current repository created to provide data and description for ML test assignment.
 
 The repository includes the following files:
   
